@@ -1,1 +1,1 @@
-# I made this Calculator using HTML, CSS and Javascript
+# A simple and responsive calculator built using HTML, CSS, and JavaScript. This project includes basic arithmetic operations and a user-friendly interface. It demonstrates my skills in front-end development and interactive web design. Check it out and share your feedback!
